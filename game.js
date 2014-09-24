@@ -93,10 +93,4 @@ this.labelScore.text = this.score;
 };
  
 game.state.add('main', mainState);
-game.state.start('main');
-
-    Write
-    Preview
-
-Parsed as Markdown Edit in fullscreen
-
+game.state.start('main'); 
